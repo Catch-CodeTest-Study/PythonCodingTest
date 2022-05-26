@@ -4,9 +4,13 @@
 파일 명 : name_number
 ## cmd
 git pull
+
 문제풀이
+
 git add .
+
 git commit -m "2022XXXX name"
+
 git push
 
 ## 브라우저
